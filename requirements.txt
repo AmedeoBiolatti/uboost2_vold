@@ -1,0 +1,2 @@
+# uboost requirements
+numpy>=1.18
